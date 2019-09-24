@@ -17,7 +17,7 @@ var rectColor = [];
 
 function setup() {
     createCanvas(500, 500);
-    alert(" Welcome to Space Cadet! The Alien King has sent his minions after you! Use your mouse to dodge his minions! Avoid collision at all costs!");
+    
 frameRate(60);
   textSize(30);
   textAlign(CENTER);
